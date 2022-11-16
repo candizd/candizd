@@ -1,8 +1,8 @@
 👋 Hi I am Hasan Can.
 
 I'm currently:
-👨‍💻 Taking a few CS50 and Udemy courses simultaneously.
-🎓 Studying computer science at TDU in Turkey, Istanbul.
+- 👨‍💻 Taking a few CS50 and Udemy courses simultaneously.
+- 🎓 Studying computer science at TDU in Turkey, Istanbul.
 
 
 -
