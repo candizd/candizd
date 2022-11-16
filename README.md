@@ -1,5 +1,11 @@
-### Hi there 👋
+👋 Hi I am Hasan Can.
 
+I'm currently:
+👨‍💻 Taking a few CS50 and Udemy courses simultaneously.
+🎓 Studying computer science at TDU in Turkey, Istanbul.
+
+
+-
 <!--
 **candizd/candizd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
