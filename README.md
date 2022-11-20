@@ -5,7 +5,7 @@ I'm currently:
 - 🎓 Studying computer science at TDU in Turkey, Istanbul.
 - 😄 Looking for an internship.
 
--
+
 <!--
 **candizd/candizd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
