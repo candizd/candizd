@@ -3,7 +3,7 @@
 I'm currently:
 - 👨‍💻 Taking a few CS50 and Udemy courses simultaneously.
 - 🎓 Studying computer science at TDU in Turkey, Istanbul.
-
+- 😄 Looking for an internship.
 
 -
 <!--
