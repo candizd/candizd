@@ -1,22 +1,17 @@
-👋 Hi I am Hasan Can.
+## Hasan Can Dizdar
 
-I'm currently:
-- 👨‍💻 Taking a few CS50 and Udemy courses simultaneously.
-- 🎓 Studying computer science at TDU in Turkey, Istanbul.
-- 😄 Looking for an internship.
+Data engineer. I build batch pipelines and the plumbing around them — ingestion,
+orchestration, warehouse modelling, and the reporting that comes out the other end.
 
+**Working with:** Python · SQL · Airflow · Prefect · BigQuery · dbt · Docker
 
-<!--
-**candizd/candizd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of what I have built runs in production and is not mine to publish: ETL for
+banking and fitness-industry clients, and a regulatory reporting system that
+generates 25+ mandatory XML report types, validates each one against its XSD, and
+delivers them on a schedule.
 
-Here are some ideas to get you started:
+So what is here is the work I can show.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:** moving my GCP experience across to AWS, and writing `xsdscribe` — a
+tool that reads an XSD and explains what it actually requires you to produce, then
+builds conforming XML from tabular data.
