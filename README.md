@@ -3,7 +3,7 @@
 Data engineer. I build batch pipelines and the plumbing around them — ingestion,
 orchestration, warehouse modelling, and the reporting that comes out the other end.
 
-**Working with:** Python · SQL · Airflow · Prefect · BigQuery · dbt · Docker
+**Working with:** Python · SQL · Airflow · Prefect · BigQuery · Docker
 
 Most of what I have built runs in production and is not mine to publish: ETL for
 banking and fitness-industry clients, and a regulatory reporting system that
